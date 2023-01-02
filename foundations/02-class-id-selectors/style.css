@@ -1,0 +1,21 @@
+p,
+.b
+{
+    background-color: rgb(255, 160, 160);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#a{
+    font-size: 36px;
+    color: rgb(9, 54, 255);
+}
+
+.b{
+    font-size: 24px;
+}
+
+#c{
+    background-color: rgb(148, 255, 133);
+    font-size: 24px;
+    font-weight: bold;
+}
