@@ -1,14 +1,14 @@
+.one,
+.two{
+    font-size: 24px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
 .one{
     background-color: rgb(15, 15, 15);
 }
 
 .two {
     background-color: rgb(255, 213, 27);
-}
-
-.one,
-.two{
-    font-size: 24px;
-    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
     color: rgb(255, 250, 250);
 }
